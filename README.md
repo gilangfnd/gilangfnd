@@ -64,5 +64,5 @@ Having knowledge to create web automation using cypress, cucumber selenium java,
 
 ### 📝Contact me!
 <p>
-    <a href="mailto: gilangfnd@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+    <a href="gmail: gilangfnd@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </p>
