@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋 , I'm Wisnu!
+# Hi there 👋 , I'm Gilang!
 Having knowledge to create web automation using cypress, cucumber selenium java, Katalon, Postman and JMeter.
 
 # Table of contents
@@ -18,7 +18,7 @@ Having knowledge to create web automation using cypress, cucumber selenium java,
    * [Stats](#stats)
    * [Tools](#tools)
    * [Software QA](#%EF%B8%8Fbincang-qa)
-        * [SQA Journey Path](#sqa-journey-path)
+        * [Cucumber BDD](#cucumber-bdd)
         * [Postman Tutorial](#postman)
         * [Tips & Trick SQA](#tips--trick)
    * [Contact me](#contact-me)
@@ -59,17 +59,8 @@ Having knowledge to create web automation using cypress, cucumber selenium java,
 <details>
  <summary><strong>Bincang QA Content</strong></summary>
 
-### SQA Journey Path
-   * [PART 1 Pengenalan SQA](https://youtu.be/IrWbKeLGi2A)</br>
-   * [PART 2 Jenis -Jenis Testing](https://youtu.be/rSaNoVtjqcE)</br>
-   * [PART 3 Test Cases](https://youtu.be/GSnePKaLAHA)
-   * [PART 4 Manual Web Testing](https://youtu.be/SY5vatZyVJ8)
-   * [PART 5 BDD, Cucumber dan Gherkin](https://youtu.be/fqVj00ckiRg)
-   * [PART 6.1 API Testing](https://youtu.be/fJxmR2N8Eqs)
-   * [PART 6.2 API Testing dengan Postman](https://youtu.be/jo8CP4oarJ0)
-   * [PART 6.3 API Automation dengan Karate](https://youtu.be/9zBNRlUWALs)
-   * [PART 7.1 Pengenalan & Setup Cucumber Selenium Java](https://youtu.be/dTAxSbGikSk)
-   * [PART 7.2 Web Automation dengan Cucumber Selenium Java](https://youtu.be/zRPyrNq9bWI)
+### Cucumber BDD
+   * (https://github.com/gilangfnd/Cucumber-BDD-)
 
 ### Postman
    * [PART 1 Pengenalan & Setup Postman](https://youtu.be/J9SLWV3AAz0)
