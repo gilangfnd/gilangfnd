@@ -60,6 +60,9 @@ Having knowledge to create web automation using cypress, cucumber selenium java,
 ### Automation Test Cypress
    * https://github.com/gilangfnd/Automation-Cypress
 
+### Automation Postman
+   * https://github.com/gilangfnd/Automation-Postman
+
 </details>
 
 ### 📝Contact me!
