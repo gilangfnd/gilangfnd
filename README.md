@@ -34,11 +34,13 @@ Have knowledge of Fullstack Developer and QA Engineer. I have the ability to use
 </p>
 
 ## 🔨Tools
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png)
-![CSS](https://img.shields.io/badge/-JMeter-181717?style=for-the-badge&logo=JMeter)
-![Bootsrap](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML-181717?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-181717?style=for-the-badge&logo=CSS)
+![Bootsrap5](https://img.shields.io/badge/-BOOTSTRAP5-181717?style=for-the-badge&logo=BOOTSTRRAP5)
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
+![React.js](https://img.shields.io/badge/-React.js-181717?style=for-the-badge&logo=React.js)
+![php](https://img.shields.io/badge/-php-181717?style=for-the-badge&logo=php)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
