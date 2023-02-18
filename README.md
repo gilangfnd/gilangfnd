@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Gilang!
-Having knowledge to create web automation using cypress, cucumber selenium java, Katalon, Postman and JMeter.
+Have knowledge of Fullstack Developer and QA Engineer. I have the ability to use HTML5, CSS, Bootstrap, php, MySQL, React.js, and I can use tools for QA Engineers such as Cypress, Katalon, JMeter, Postman, and Cucumber (BDD).
 
 # Table of contents
 <!--ts-->
@@ -34,6 +34,9 @@ Having knowledge to create web automation using cypress, cucumber selenium java,
 </p>
 
 ## 🔨Tools
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png)
+![CSS](https://img.shields.io/badge/-JMeter-181717?style=for-the-badge&logo=JMeter)
+![Bootsrap](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-181717?style=for-the-badge&logo=java)
 ![Javascript](https://img.shields.io/badge/-javascript-181717?style=for-the-badge&logo=javascript)
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
