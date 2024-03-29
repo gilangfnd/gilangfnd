@@ -11,7 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Gilang!
-Have knowledge of Fullstack Developer and QA Engineer. I have the ability to use HTML5, CSS, Bootstrap, php, MySQL, React.js, and I can use tools for QA Engineers such as Cypress, Katalon, JMeter, Postman, and Cucumber (BDD).
+I have been involved in various software development projects covering Java to C applications from small to large scale. I have expertise in developing and maintaining Java applications using frameworks such as SpringBoot and VsCode. I also have experience in integrating applications with databases and external web services as well as payment transactions.
+
+Additionally, I have strong knowledge in object-oriented programming (OOP) concepts and the use of design patterns to ensure the code I write is modular, easy to understand, and easy to change.
 
 # Table of contents
 <!--ts-->
